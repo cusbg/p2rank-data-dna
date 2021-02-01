@@ -1,4 +1,4 @@
-#P2Rank-DNA datasets
+# P2Rank-DNA datasets
 
-Data and results of P2Rank applied to P2rank-DNA sites detection
-as presented in the bachelor thesis of Petra Gajdoöov· (see the docs).
+Data and results of P2Rank applied to protein-DNA sites detection
+as presented in the bachelor thesis of Petra Gajdo≈°ov√° (see the docs).
